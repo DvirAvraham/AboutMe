@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **Dvir6g6@gmail.com.**
 
-- ⚡ Fun facts **I love puzzles, surfing and playing tennis.**
-
 <p align="left">
 </p>
 
