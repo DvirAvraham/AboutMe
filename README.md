@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dvir Avraham</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Penetration Tester && Full Stack Developer</h3>
 
-- 🌱 I continue to learn and develop my skills in **React.js.**
+- 🌱 I continue to learn and develop my skills in **AWS.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
